@@ -1,6 +1,6 @@
 # Covid-19 - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/zx6uMCoW2gQ)
+
 
 **Packages we are using:**
 
@@ -15,7 +15,4 @@
 - Design by: Rendi Ramadana [link](https://www.uplabs.com/posts/coronavirus-information-concept)
 
 ### Covid-19 App Final UI
-
-![App UI](/covid_19.png)
-
-![Demo](https://user-images.githubusercontent.com/5730051/79185949-8acf3c80-7e42-11ea-984d-b098cfee5cd1.gif)
+<img width="1440" alt="Screenshot 2020-11-23 at 9 26 40 PM" src="https://user-images.githubusercontent.com/72858063/99984131-b2bc5080-2dd2-11eb-85df-11f9d74c95eb.png">
